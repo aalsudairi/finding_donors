@@ -6,10 +6,12 @@ In this project, you will apply supervised learning techniques and an analytical
 ## Install
 This project requires Python 3.x and the following Python libraries installed:
 
-NumPy
-Pandas
-matplotlib
-scikit-learn
+1. NumPy
+2. Pandas
+3. matplotlib
+4. scikit-learn
+
+
 You will also need to have software installed to run and execute an iPython Notebook
 
 I recommend students install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
